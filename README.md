@@ -23,3 +23,7 @@ LEFT JOIN employee_relations er ON e.id = er.employee_id
 WHERE e.id = 4
 
 ```
+
+### Screenshot
+
+![Screenshot](/screenshot.png?raw=true "Screenshot")
